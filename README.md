@@ -14,3 +14,4 @@ In your DOS/Unix terminal
 * To access test results, access the testreports in mochawesome-report folder
 * To access the test videos, access the videos\cucumber folder
 
+![image](https://user-images.githubusercontent.com/56835649/141675738-7e254691-598d-4851-8808-0e288642db15.png)
