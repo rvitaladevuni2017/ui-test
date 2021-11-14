@@ -1,0 +1,10 @@
+{
+    "defaultCommandTimeout": 30000,
+    "pageLoadTimeout": 30000,
+    "testFiles": ["**/*.{feature,features}"],
+     "reporterOptions": {
+        "overwrite": false,
+        "html": true,
+        "json": false
+    }
+}
